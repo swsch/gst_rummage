@@ -1,0 +1,7 @@
+= GNU Smalltalk Rummage
+
+ rummage, n: a jumble of things to be given away
+
+Some useful things I've come across during my gst adventures:
+
+* PackageBuilder: build +package.xml+ from a compact description
