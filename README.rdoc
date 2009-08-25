@@ -4,4 +4,4 @@
 
 Some useful things I've come across during my gst adventures:
 
-* PackageBuilder: build <tt>package.xml<tt> from a compact description
+* PackageBuilder: build <tt>package.xml</tt> from a compact description
